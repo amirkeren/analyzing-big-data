@@ -1,2 +1,5 @@
 *.txt
 .ipynb_checkpoints/Rule Based Machine Learning Algorithm-checkpoint.ipynb
+derby.log
+metastore_db/
+1
